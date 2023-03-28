@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "gms-ws-sandbox/whitesource-config@main"
+  "settingsInheritedFrom": "gms-ws-sandbox/whitesource-config@main",
+  "leastVulnerablePackageSettings": {                 
+    "enabled": true     
+  } 
 }
